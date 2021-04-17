@@ -1,0 +1,38 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://dev-went2rent.pantheonsite.io
+Data file = /code/wp-content/uploads/2021/04/content.xml
+Widget file = /code/wp-content/uploads/2021/04/widgets.wie
+Customizer file = /code/wp-content/uploads/2021/04/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog (sidebar) : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+Recent Comments - Comments - Imported
+Tag Cloud - Tags - Imported
+
+Site (footer) : 
+
+Text - No Title - Imported
+Navigation Menu - Listings - Imported
+Categories - Blog - Imported
+Navigation Menu - Social - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
